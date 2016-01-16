@@ -1,4 +1,5 @@
 # test
-# calculate square
-# calculate sum
+Features supported:
+* calculate square
+* calculate sum
 
